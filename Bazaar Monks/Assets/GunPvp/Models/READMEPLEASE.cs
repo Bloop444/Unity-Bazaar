@@ -1,0 +1,1 @@
+// please drag the following in your photonvr, the bullet prefab, the shoot particle prefab, health text prefab, and you should be good, the gun model is guns idk
